@@ -1,3 +1,3 @@
 # govindademo
 this is my first repository 
-aouther = Govinda
+author = Govinda
